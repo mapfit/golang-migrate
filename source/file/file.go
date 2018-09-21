@@ -9,7 +9,7 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/golang-migrate/migrate/source"
+	"github.com/mapfit/golang-migrate/source"
 )
 
 func init() {

@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/golang-migrate/migrate/database"
-	"github.com/golang-migrate/migrate/source"
+	"github.com/mapfit/golang-migrate/database"
+	"github.com/mapfit/golang-migrate/source"
 )
 
 // DefaultPrefetchMigrations sets the number of migrations to pre-read
